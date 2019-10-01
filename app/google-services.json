@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "477653148659",
+    "firebase_url": "https://lab8-4afe3.firebaseio.com",
+    "project_id": "lab8-4afe3",
+    "storage_bucket": "lab8-4afe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477653148659:android:38b67993e465fd85",
+        "android_client_info": {
+          "package_name": "vn.hailt.lab8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477653148659-n606n5psm48amhlupc5mbdjld48qlnp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.hailt.lab8",
+            "certificate_hash": "9f2489f6c304d9371804cb446ca5d2aeed164b1e"
+          }
+        },
+        {
+          "client_id": "477653148659-ab295efek3hmdgtgk477n2uhjrqp7nrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPh-0e6zb5gRCJxm8U0QNjwXyhJ_IbqqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477653148659-ab295efek3hmdgtgk477n2uhjrqp7nrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
